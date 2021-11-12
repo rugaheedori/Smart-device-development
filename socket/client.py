@@ -1,7 +1,6 @@
 import socket
 from time import sleep
 
-
 clientSocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM, socket.IPPROTO_TCP)
 
 ip = "127.0.0.1"
