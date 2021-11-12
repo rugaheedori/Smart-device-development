@@ -1,5 +1,4 @@
 import socket
-from typing import Text
 
 hostServer = "127.0.0.1"
 portServer = 8080
